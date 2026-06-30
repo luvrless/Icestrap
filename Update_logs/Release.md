@@ -8,6 +8,6 @@ Our Discord server will be coming soon.
 If you encounter any issues with our app, please contact us on Telegram or via Email.
 
 TG: @logmade 
-Mail: unseallcc@gmail.com
+Mail: icestrapsupport@gmail.com
 
 > **Date:** June 30, 2026
