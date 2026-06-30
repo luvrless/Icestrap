@@ -1,18 +1,6 @@
-\# \*\*Title:\*\* \*\*Update title\*\* \*(Dev Write here)\*
+# **Title:** **Icestrap Release**
 
+**Text:**  
+We are happy to announce that **Icestrap** has now been officially released.
 
-
-\*\*Text:\*\*  
-
-Update information \*(Dev Write here)\*  
-
-\*(Allow multi-line)\*
-
-
-
-> \*\*Date:\*\* \*(Dev Write here)\*
-
-
-
-\*\*Link:\*\* \*(Optional — if left blank, don't add)\*
-
+> **Date:** June 30, 2026
