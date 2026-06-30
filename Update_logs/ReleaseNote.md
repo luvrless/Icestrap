@@ -1,4 +1,4 @@
- # **Title:** **Icestrap Release (v1.0.0)**
+ # **Title:** **Icestrap Release (v1.0.0.0)**
 
 **Text:**  
 We are excited to announce the first official release of Icestrap!
