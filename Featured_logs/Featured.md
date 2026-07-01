@@ -1,20 +1,8 @@
-\# \*\*Title:\*\* \*\*Featured Update\*\*
+# **Title:** **Featured Update**
 
+**Text:**  
+> UI Appearance Customization will be added  
+> Mod Browser will be added  
+> Discord server is coming soon  
 
-
-\*\*Text:\*\*  
-
-\- UI improvements will be added  
-
-\- IceAI, our own AI client, will be added  
-
-\- A login system will also be added  
-
-\- Discord server is coming soon  
-
-\- Website is coming soon  
-
-
-
-> \*\*Date:\*\* Unknown
-
+> **Date:** Unknown
