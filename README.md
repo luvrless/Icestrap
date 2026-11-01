@@ -42,7 +42,7 @@ For your own security, please download Icestrap **only from this official GitHub
 
 ## Disclaimer
 
-Icestrap is an independent project and is **not affiliated with, endorsed by, or sponsored by Roblox Corporation or the developers of Bloxstrap.** All trademarks belong to their respective owners.
+Icestrap is an independent project and is **not affiliated with, endorsed by, or sponsored by Roblox Corporation.**
 
 ---
 
