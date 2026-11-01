@@ -1,7 +1,5 @@
 **Development of Icestrap has been discontinued, but the project remains fully functional thanks to its automatic update system.**
 
-**You’re free to extend, modify, or completely rework the project using the source code provided below. Feel free to make it your own.**
-
 # ❄️ Icestrap
 
 **Icestrap** is a Bloxstrap-inspired Roblox modification and customization tool designed to provide a clean, simple, and customizable experience.
